@@ -7,7 +7,8 @@
   "author": "muhtarudinsiregar <muhtarudinsiregar93@gmail.com>",
   "scripts": {
     "crawl:update": "node ./src/crawling.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "eslint": "eslint --fix .",
+    "test": "mocha tests/"
   },
   "keywords": [
     "libur",
@@ -17,10 +18,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.3",
-    "cheerio": "^0.22.0",
-    "ora": "^0.4.1"
+    "cheerio": "^0.22.0"
   },
   "devDependencies": {
+    "chai": "^3.5.0",
     "mocha": "^3.2.0"
   }
 }
