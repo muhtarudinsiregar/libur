@@ -7,8 +7,10 @@
   "author": "muhtarudinsiregar <muhtarudinsiregar93@gmail.com>",
   "scripts": {
     "crawl:update": "node ./src/crawling.js",
-    "eslint": "eslint --fix .",
-    "test": "mocha tests/"
+    "lint": "eslint src/ tests/",
+    "lint:fix": "eslint --fix src/ tests/",
+    "test": "mocha tests/",
+    "test:coverage": " nyc mocha tests/"
   },
   "keywords": [
     "libur",
@@ -22,6 +24,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "mocha": "^3.2.0",
+    "nyc": "next"
   }
 }
