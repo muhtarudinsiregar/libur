@@ -1,0 +1,300 @@
+[
+  {
+    "year": 2013,
+    "link": "/kalender-2013/",
+    "data": [
+      {
+        "day": "Selasa",
+        "date": "1 Januari 2013",
+        "event": "Tahun Baru Masehi"
+      },
+      {
+        "day": "Kamis",
+        "date": "24 Januari 2013",
+        "event": "Maulid Nabi"
+      },
+      {
+        "day": "Minggu",
+        "date": "10 Februari 2013",
+        "event": "Tahun Baru Imlek"
+      },
+      {
+        "day": "Selasa",
+        "date": "12 Maret 2013",
+        "event": "Hari Raya Nyepi"
+      },
+      {
+        "day": "Jumat",
+        "date": "29 Maret 2013",
+        "event": "Jumat Agung"
+      },
+      {
+        "day": "Kamis",
+        "date": "9 Mei 2013",
+        "event": "Kenaikan Isa Almasih"
+      },
+      {
+        "day": "Sabtu",
+        "date": "25 Mei 2013",
+        "event": "Hari Raya Waisak"
+      },
+      {
+        "day": "Kamis",
+        "date": "6 Juni 2013",
+        "event": "Isra Miraj"
+      },
+      {
+        "day": "Senin - Rabu",
+        "date": "5 - 7 Agustus 2013",
+        "event": "Cuti Bersama"
+      },
+      {
+        "day": "Kamis - Jumat",
+        "date": "8 - 9 Agustus 2013",
+        "event": "Idul Fitri"
+      },
+      {
+        "day": "Sabtu",
+        "date": "17 Agustus 2013",
+        "event": "Hari Kemerdekaan"
+      },
+      {
+        "day": "Senin",
+        "date": "14 Oktober 2013",
+        "event": "Cuti Bersama"
+      },
+      {
+        "day": "Selasa",
+        "date": "15 Oktober 2013",
+        "event": "Idul Adha"
+      },
+      {
+        "day": "Selasa",
+        "date": "5 November 2013",
+        "event": "Tahun Baru Hijriyah"
+      },
+      {
+        "day": "Rabu",
+        "date": "25 Desember 2013",
+        "event": "Hari Natal"
+      },
+      {
+        "day": "Kamis",
+        "date": "26 Desember 2013",
+        "event": "Cuti Bersama"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "link": "/kalender-2014/",
+    "data": []
+  },
+  {
+    "year": 2015,
+    "link": "/kalender-2015/",
+    "data": []
+  },
+  {
+    "year": 2016,
+    "link": "/kalender-2016/",
+    "data": [
+      {
+        "day": "Jumat",
+        "date": "1 Januari 2016",
+        "event": "Tahun Baru Masehi"
+      },
+      {
+        "day": "Senin",
+        "date": "8 Februari 2016",
+        "event": "Tahun Baru Imlek"
+      },
+      {
+        "day": "Rabu",
+        "date": "9 Maret 2016",
+        "event": "Hari Raya Nyepi"
+      },
+      {
+        "day": "Jumat",
+        "date": "25 Maret 2016",
+        "event": "Jumat Agung"
+      },
+      {
+        "day": "Minggu",
+        "date": "1 Mei 2016",
+        "event": "Hari Buruh"
+      },
+      {
+        "day": "Kamis",
+        "date": "5 Mei 2016",
+        "event": "Kenaikan Isa Almasih"
+      },
+      {
+        "day": "Jumat",
+        "date": "6 Mei 2016",
+        "event": "Isra Miraj"
+      },
+      {
+        "day": "Minggu",
+        "date": "22 Mei 2016",
+        "event": "Hari Raya Waisak"
+      },
+      {
+        "day": "Senin - Selasa",
+        "date": "4 - 5 Juli 2016",
+        "event": "Cuti Bersama"
+      },
+      {
+        "day": "Rabu - Kamis",
+        "date": "6 - 7 Juli 2016",
+        "event": "Idul Fitri"
+      },
+      {
+        "day": "Jumat",
+        "date": "8 Juli 2016",
+        "event": "Cuti Bersama"
+      },
+      {
+        "day": "Rabu",
+        "date": "17 Agustus 2016",
+        "event": "Hari Kemerdekaan"
+      },
+      {
+        "day": "Senin",
+        "date": "12 September 2016",
+        "event": "Idul Adha"
+      },
+      {
+        "day": "Minggu",
+        "date": "2 Oktober 2016",
+        "event": "Tahun Baru Hijriyah"
+      },
+      {
+        "day": "Senin",
+        "date": "12 Desember 2016",
+        "event": "Maulid Nabi"
+      },
+      {
+        "day": "Minggu",
+        "date": "25 Desember 2016",
+        "event": "Hari Natal"
+      },
+      {
+        "day": "Senin",
+        "date": "26 Desember 2016",
+        "event": "Cuti Bersama"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "link": "/kalender-2017/",
+    "data": []
+  },
+  {
+    "year": 2018,
+    "link": "/kalender-2018/",
+    "data": []
+  },
+  {
+    "year": 2019,
+    "link": "/kalender-2019/",
+    "data": []
+  },
+  {
+    "year": 2020,
+    "link": "/kalender-2020/",
+    "data": []
+  },
+  {
+    "year": 2021,
+    "link": "/kalender-2021/",
+    "data": []
+  },
+  {
+    "year": 2022,
+    "link": "/kalender-2022/",
+    "data": [
+      {
+        "day": "Sabtu",
+        "date": "1 Januari 2022",
+        "event": "Tahun Baru Masehi"
+      },
+      {
+        "day": "Selasa",
+        "date": "1 Februari 2022",
+        "event": "Tahun Baru Imlek"
+      },
+      {
+        "day": "Selasa",
+        "date": "1 Maret 2022",
+        "event": "Isra Miraj"
+      },
+      {
+        "day": "Kamis",
+        "date": "3 Maret 2022",
+        "event": "Hari Raya Nyepi"
+      },
+      {
+        "day": "Jumat",
+        "date": "15 April 2022",
+        "event": "Jumat Agung"
+      },
+      {
+        "day": "Minggu",
+        "date": "1 Mei 2022",
+        "event": "Hari Buruh"
+      },
+      {
+        "day": "Selasa - Rabu",
+        "date": "3 - 4 Mei 2022",
+        "event": "Idul Fitri"
+      },
+      {
+        "day": "Senin",
+        "date": "16 Mei 2022",
+        "event": "Hari Raya Waisak"
+      },
+      {
+        "day": "Kamis",
+        "date": "26 Mei 2022",
+        "event": "Kenaikan Isa Almasih"
+      },
+      {
+        "day": "Rabu",
+        "date": "1 Juni 2022",
+        "event": "Hari Lahir Pancasila"
+      },
+      {
+        "day": "Minggu",
+        "date": "10 Juli 2022",
+        "event": "Idul Adha"
+      },
+      {
+        "day": "Sabtu",
+        "date": "30 Juli 2022",
+        "event": "Tahun Baru Hijriyah"
+      },
+      {
+        "day": "Rabu",
+        "date": "17 Agustus 2022",
+        "event": "Hari Kemerdekaan"
+      },
+      {
+        "day": "Sabtu",
+        "date": "8 Oktober 2022",
+        "event": "Maulid Nabi"
+      },
+      {
+        "day": "Minggu",
+        "date": "25 Desember 2022",
+        "event": "Hari Natal"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "link": "/kalender-2023/",
+    "data": []
+  }
+]

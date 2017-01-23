@@ -9,7 +9,7 @@
     "crawl:update": "node ./src/crawling.js",
     "lint": "eslint src/ tests/",
     "lint:fix": "eslint --fix src/ tests/",
-    "test": "mocha tests/",
+    "test": "mocha tests/ && ava",
     "test:coverage": " nyc mocha tests/"
   },
   "keywords": [
@@ -23,6 +23,7 @@
     "cheerio": "^0.22.0"
   },
   "devDependencies": {
+    "ava": "^0.17.0",
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
     "nyc": "next"
