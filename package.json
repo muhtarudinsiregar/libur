@@ -9,7 +9,7 @@
     "crawl:update": "node ./src/crawling.js",
     "lint": "eslint src/ tests/",
     "lint:fix": "eslint --fix src/ tests/",
-    "test": "mocha tests/ && ava",
+    "test": "mocha tests/ ",
     "test:coverage": " nyc mocha tests/"
   },
   "keywords": [
