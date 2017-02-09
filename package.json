@@ -1,8 +1,8 @@
 {
   "name": "libur",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tampilkan hari-hari libur nasional di indonesia",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/muhtarudinsiregar/libur.git",
   "author": "muhtarudinsiregar <muhtarudinsiregar93@gmail.com>",
   "scripts": {
@@ -10,7 +10,6 @@
     "lint": "eslint src/ tests/",
     "lint:fix": "eslint --fix src/ tests/",
     "test": "mocha tests/ ",
-    "test:coverage": " nyc mocha tests/"
   },
   "keywords": [
     "libur",
@@ -23,9 +22,7 @@
     "cheerio": "^0.22.0"
   },
   "devDependencies": {
-    "ava": "^0.17.0",
     "chai": "^3.5.0",
-    "mocha": "^3.2.0",
-    "nyc": "next"
+    "mocha": "^3.2.0"
   }
 }

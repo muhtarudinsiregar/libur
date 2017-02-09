@@ -7,7 +7,7 @@ class Libur {
 	constructor() { }
 
 	getYears() {
-		var years = data.map((value)=>{
+		var years = data.map(value => {
 			return value.year;
 		});
 
@@ -15,10 +15,11 @@ class Libur {
 	}
 
 	getDataByYear(year) {
-		var dataLibur = data.filter ((value )=> {
+		var dataLibur = data.filter (value => {
 			if (value.year === year) {
 				return value;
 			}
+
 			return false;
 		});
 
